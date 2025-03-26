@@ -71,3 +71,4 @@ Este projeto implementa um sistema automatizado de separação de áudio usando 
 - O primeiro processamento pode demorar mais devido ao download do modelo
 - Os arquivos processados são salvos em alta qualidade (16kHz)
 - O sistema reinicia automaticamente em caso de falhas
+- teste
